@@ -36,6 +36,7 @@ a {
   text-decoration: none;
   position: relative;
   transition: opacity 300ms ease;
+  cursor: not-allowed;
 }
 
 i:hover {
@@ -133,6 +134,7 @@ nav {
 
 .nav__link--anchor-primary:hover {
   background-color: #44e07b;
+  cursor: not-allowed;
 }
 
 .personal__logo {
